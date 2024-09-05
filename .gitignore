@@ -1,0 +1,39 @@
+node_modules
+node_modules
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories (Node, Python, etc.)
+node_modules/
+bower_components/
+venv/
+.env
+
+# Ignore IDE / Editor project files
+.vscode/
+.idea/
+
+# Ignore OS-generated files like MacOS, Windows, and Linux
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Ignore build outputs and temp files
+dist/
+build/
+tmp/
+*.tmp
+*.bak
+*.cache
+
+# Ignore personal configuration files
+*.local
+*.env
